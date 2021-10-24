@@ -1,11 +1,10 @@
-# MediClinic Website(Online Base Health Services)
+#demo)
 
-[Click here to visit Live MediClinic Website](https://clever-kilby-02f121.netlify.app/)
+[Click here to visit Live](https://cocky-davinci-1362a0.netlify.app/)
 ## Short Description
-It's a React Website for providing medical doctor service via online.
-Here anyone can make appoinment to the Doctor for medication.
+It's a React Website.
 ## Features and Functionality
-  -> (Create a platform medical Doctor service via online )
+
   -> (An authorize User can make an appointment)
   -> (Any one can contact our doctor)
   -> (Google Firebase authentication for secure users account)
